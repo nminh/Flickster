@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/nminh/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.6.0/48efa6f14074e1a6b16e02ac05eba3fc5c7c7ec8/butterknife-annotations-8.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="48efa6f14074e1a6b16e02ac05eba3fc5c7c7ec8">
+        <dex dex="/home/nminh/workspace/coderschool/assignment1/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.6.0_96dea9775e32af13aca88a8fc5298913557c122a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nminh/workspace/coderschool/assignment1/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/nminh/workspace/coderschool/assignment1/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_5352fa17e182a63d45c528b4f7444114576ed007.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nminh/.android/build-cache/f0bde1d549d21bf0e7249e743b14ea47f92a3966/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="be587097e648eabfb7f9eca23ab03369894e2d5d">
+        <dex dex="/home/nminh/workspace/coderschool/assignment1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b38ba976e84b5c57bb049b88d38a9ddbff4159e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nminh/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.6.0/48efa6f14074e1a6b16e02ac05eba3fc5c7c7ec8/butterknife-annotations-8.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="48efa6f14074e1a6b16e02ac05eba3fc5c7c7ec8">
+        <dex dex="/home/nminh/workspace/coderschool/assignment1/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.6.0_96dea9775e32af13aca88a8fc5298913557c122a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nminh/.android/build-cache/91b71b2bf5df32ad3d6c84b72e80b128241cbf2b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/nminh/workspace/coderschool/assignment1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_246705e5ec6001b517b710deb89e3827ea504caa/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nminh/workspace/coderschool/assignment1/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/nminh/workspace/coderschool/assignment1/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_7df0f6187dfe39a193328c476838770a994d41a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nminh/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/home/nminh/workspace/coderschool/assignment1/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.9_d5f7a97481092ae4fe56bbbd895030ce11ecd7bd.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nminh/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/home/nminh/workspace/coderschool/assignment1/app/build/intermediates/transforms/dex/debug/folders/1000/10/android-async-http-1.4.9_d5f7a97481092ae4fe56bbbd895030ce11ecd7bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nminh/.android/build-cache/6dc2f8cac4a33a90b8af756000fdd657d1a7a9d7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/nminh/workspace/coderschool/assignment1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_06628fedab6bb7d194a67dbf4262f5dba87d78e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nminh/.android/build-cache/aa486aa961cd6617788e3ccd321986def6c22cb7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/nminh/workspace/coderschool/assignment1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2fcb4ea6b8509f9f5aec5333c5c296a2252ae75a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nminh/workspace/coderschool/assignment1/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/nminh/workspace/coderschool/assignment1/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_e130d17a19edf9c521513ffa2509ff268088944d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nminh/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/nminh/workspace/coderschool/assignment1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_27e97ffb30c56d39be94550f8a41aa47d6e2aeca/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nminh/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/nminh/workspace/coderschool/assignment1/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_27e97ffb30c56d39be94550f8a41aa47d6e2aeca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nminh/workspace/coderschool/assignment1/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/nminh/workspace/coderschool/assignment1/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_5f48d65b04016b346589e14b7246eb19211760e3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nminh/.android/build-cache/e189633642730b63cc6bf090f10a5a3f0119dd56/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/nminh/workspace/coderschool/assignment1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7321947a5f5f8cce317d0b9ac00fde3e13c2d359/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nminh/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/home/nminh/workspace/coderschool/assignment1/app/build/intermediates/pre-dexed/debug/httpclient-4.3.6_f2cd8cfc59e20f006a2f4a0a51033eca9d9f2e4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nminh/workspace/coderschool/assignment1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/nminh/workspace/coderschool/assignment1/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_928defa9b95ac65e1bf5f5e1fe8d4ff94942f1b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nminh/workspace/coderschool/assignment1/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/nminh/workspace/coderschool/assignment1/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_15b2260e24689c0d12a133e89d5dcefffd3a668b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nminh/workspace/coderschool/assignment1/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/nminh/workspace/coderschool/assignment1/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_0cc0ffdabf454d7095bff8ac36fd0f4a262b8f7f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nminh/.android/build-cache/813f956e28343d5159fcd3bd2320f320d39d9091/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/nminh/workspace/coderschool/assignment1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_451699d30de4cc36ea940344e4b260cb802d1da6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nminh/workspace/coderschool/assignment1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d3bd570300980aadd8d47217cd5349f29b6ea903">
+        <dex dex="/home/nminh/workspace/coderschool/assignment1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_82f1de11215c77aff3644dea3fc9fe1540fc958d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nminh/.android/build-cache/12ef9757cb521f673a47cc72e54551fa0768b998/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/nminh/workspace/coderschool/assignment1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_006f5eca05ed51edd906734bc6b39a40a118621d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nminh/workspace/coderschool/assignment1/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="be587097e648eabfb7f9eca23ab03369894e2d5d">
+        <dex dex="/home/nminh/workspace/coderschool/assignment1/app/build/intermediates/pre-dexed/debug/com.jakewharton-butterknife-8.6.0_36eb025e6ada01f62d077f49695f08eb16aad666.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nminh/workspace/coderschool/assignment1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/nminh/workspace/coderschool/assignment1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0537d525026a1907c664625851a4fc314d58aac7/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nminh/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/nminh/workspace/coderschool/assignment1/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_76ef9bce6e3a26a7318778d18080675a0e9ca9e8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nminh/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/nminh/workspace/coderschool/assignment1/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_76ef9bce6e3a26a7318778d18080675a0e9ca9e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nminh/.android/build-cache/7d953adcffd9746c5cb5e6c0f124d9da5c62d9cd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/nminh/workspace/coderschool/assignment1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_16989af53f656d891618703cce715103ed75cd9f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nminh/workspace/coderschool/assignment1/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/nminh/workspace/coderschool/assignment1/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_89f707a0868cfa4a26c1ca2786d9be950616abb5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nminh/.android/build-cache/cab09620ce71fb890226af81d3966da4de7ccfe5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/nminh/workspace/coderschool/assignment1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dbbc0597fa288079e20db0328d5be0c1f3668d90/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nminh/.android/build-cache/f39b323c5ef17cc8d0d8b6a3bfc8cf18347615e9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/nminh/workspace/coderschool/assignment1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_52bfc4e57eca6cca566d0f52ab84f2621801b905/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nminh/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/home/nminh/workspace/coderschool/assignment1/app/build/intermediates/transforms/dex/debug/folders/1000/10/httpclient-4.3.6_f2cd8cfc59e20f006a2f4a0a51033eca9d9f2e4a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nminh/workspace/coderschool/assignment1/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/nminh/workspace/coderschool/assignment1/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_db4e519d8e964457edfc7094116243cc38555b89.jar" />
+    </item>
+
+</items>
